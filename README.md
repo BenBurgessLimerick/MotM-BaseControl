@@ -6,3 +6,7 @@ We present a reactive base control method that enables high performance mobile m
 
 
 # Experiment Layout
+The figures below illustrate the dimensions of the real-world and simulated experimental arrangement. 
+![Experiment Layout](images/DimensionedExperimentLayout.png) 
+![Object Table](images/DimensionedObjectTable.png) 
+
