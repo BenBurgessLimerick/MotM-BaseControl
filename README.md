@@ -5,6 +5,7 @@ We present a reactive base control method that enables high performance mobile m
 ![Temi Interaction](gifs/TemiInteraction.gif) 
 
 # Video
+[Video Link](https://www.youtube.com/watch?v=rdVT3_yhdMc)
 
 [![Base Control for MotM Video](images/BaseControlThumbnail.png)](https://www.youtube.com/watch?v=rdVT3_yhdMc "Base Control for MotM Video")
 
@@ -16,6 +17,9 @@ The figures below illustrate the dimensions of the real-world and simulated expe
 
 # Related Projects
 [Manipulation On-The-Move](https://benburgesslimerick.github.io/ManipulationOnTheMove/)
+
 [Failure Recovery for Manipulation On-The-Move](https://benburgesslimerick.github.io/MotM-FailureRecovery/)
+
 [Holisitic Mobile Manipulation](https://jhavl.github.io/holistic/)
+
 [Robotics Toolbox for Python](https://github.com/petercorke/robotics-toolbox-python)
