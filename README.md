@@ -15,6 +15,10 @@ The figures below illustrate the dimensions of the real-world and simulated expe
 ![Experiment Layout](images/DimensionedExperimentLayout.png) 
 ![Object Table](images/DimensionedObjectTable.png) 
 
+The images below show the location and order of the objects for each of the 10 real world trials.
+
+![Real World Trials](images/Experiment1Trials.png) 
+
 # Related Projects
 [Manipulation On-The-Move](https://benburgesslimerick.github.io/ManipulationOnTheMove/)
 
